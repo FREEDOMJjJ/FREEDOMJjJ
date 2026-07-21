@@ -49,6 +49,12 @@
 
 ###
 
+<div align="center">
+  <img src="[![trophy](https://github-profile-trophy.vercel.app/?FREEDOMJjJ=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)">
+</div>
+
+###
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake-dark.svg" />
